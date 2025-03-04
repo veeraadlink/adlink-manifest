@@ -44,7 +44,7 @@
 
   <project name="meta-adlink-sema" path="sources/meta-adlink-sema" remote="adlink" revision="108d32de568401e2fd57b4206e9b2ed3aef59754" upstream="scarthgap"/>
   <project name="meta-adlink-demo" path="sources/meta-adlink-demo" remote="adlink" revision="3be8770c057d7fc336e434de9816084ddb1eb4de" upstream="scarthgap"/>
-  <project name="meta-adlink-nxp" path="sources/meta-adlink-nxp" remote="adlink" revision="22c063b834638bbe23a81fcb66a17d4c94bdcdca"  upstream="scarthgap">
+  <project name="meta-adlink-nxp" path="sources/meta-adlink-nxp" remote="veeraadlink" revision="fd6ddc4f0f99d10d3ddc3490354489e72b844cc7"  upstream="scarthgap">
     <linkfile dest="adlink-imx-setup-release.sh" src="conf/adlink-conf/adlink-imx-setup-release.sh"/>
   </project>
 </manifest>
