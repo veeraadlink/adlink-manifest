@@ -16,6 +16,7 @@
   <remote name="imx-support" fetch="https://github.com/nxp-imx-support"/>
 
   <remote name="adlink"      fetch="https://github.com/ADLINK"/>
+  <remote name="veeraadlink"      fetch="https://github.com/veeraadlink"/>
 
   <project name="poky" remote="yp" path="sources/poky" revision="02eacd385eca7aa9cf25aaaa61427aa9c126e0bc" upstream="scarthgap"/>
   <project name="meta-openembedded" remote="oe" path="sources/meta-openembedded" revision="4f11a12b2352bbdfafb6b7d956bf424af4992977" upstream="scarthgap"/>
